@@ -1,7 +1,3 @@
-
-
-<img align="right" width="450" src="/images/profile.jpg">
-
 # Hello I'm Guillermo Reyes 😎
 ![Website](https://img.shields.io/github/followers/guillermoreyesv?style=social)
 
