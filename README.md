@@ -22,7 +22,7 @@ And have worked with these databases:
 I have also worked with technologies such as:
 
 - Docker
-- GitHub
+- Git
 
 I studied Information and Communication Technologies (ICT) at the [Technological University of Tecámac](http://uttecamac.edomex.gob.mx/). I am always seeking to expand my knowledge by learning new technologies and programming languages.
 
